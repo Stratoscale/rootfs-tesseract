@@ -103,6 +103,8 @@ RPMS_TO_INSTALL = \
     kernel-devel \
     libcap \
     libvirt-python \
+    libvirt \
+    libvirt-daemon-kvm \
     make \
     ncurses-devel \
     nmap \
@@ -121,6 +123,8 @@ RPMS_TO_INSTALL = \
     unzip \
     vim-enhanced \
     wget \
+    qemu \
+    qemu-kvm \
     xmlrpc-c-devel \
     yum-utils \
 
