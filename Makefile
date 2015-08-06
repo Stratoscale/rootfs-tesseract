@@ -123,7 +123,6 @@ RPMS_TO_INSTALL = \
     unzip \
     vim-enhanced \
     wget \
-    qemu \
     qemu-kvm \
     xmlrpc-c-devel \
     yum-utils \
